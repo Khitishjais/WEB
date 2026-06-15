@@ -1,0 +1,458 @@
+[
+  {
+    "name": "Prof. Dr. Ghanashyam Biswas",
+    "department": "Oncology",
+    "branch": "Saheed Nagar",
+    "qualification": "MD, DM (Medical Oncology)",
+    "timings": "Mon-Sat: 10AM to 5PM",
+    "img": "https://sparshhospitals.com/wp-content/themes/hello-elementor/assets/images/SaheedNagar/2.jpg"
+  },
+  {
+    "name": "Dr. Swaraj Shankar Satpathy",
+    "department": "Oncology",
+    "branch": "Saheed Nagar",
+    "qualification": "MD Radiation Oncology, DrNB Medical Oncology",
+    "timings": "Mon-Sat: 10AM to 5PM",
+    "img": "https://sparshhospitals.com/wp-content/themes/hello-elementor/assets/images/SaheedNagar/58.jpg"
+  },
+  {
+    "name": "Dr. Madhuri Patnaik",
+    "department": "Onco Surgery",
+    "branch": "Saheed Nagar",
+    "qualification": "DNB, FMAS, FIAGES, MCLS, Advanced Laproscopic Surgeon",
+    "timings": "Mon-Sat: 10AM to 5PM",
+    "img": "https://sparshhospitals.com/wp-content/themes/hello-elementor/assets/images/SaheedNagar/6.jpg"
+  },
+  {
+    "name": "Dr. Ipsit Illahi Das",
+    "department": "Onco Surgery",
+    "branch": "Saheed Nagar",
+    "qualification": "MS (General Surgery) SCB Medical College, MCH (Surgical Oncology) AIIMS-Rishikesh",
+    "timings": "Mon-Sat: 10AM to 5PM",
+    "img": "https://sparshhospitals.com/wp-content/themes/hello-elementor/assets/images/SaheedNagar/7.jpg"
+  },
+  {
+    "name": "Prof. Dr. Rajesh Kumar Padhy",
+    "department": "ENT Head and Neck Surgery",
+    "branch": "Saheed Nagar",
+    "qualification": "MS, ENT, Head & Neck Surgeon",
+    "timings": "Mon-Sat: 10AM to 5PM",
+    "img": "https://sparshhospitals.com/wp-content/themes/hello-elementor/assets/images/SaheedNagar/5.jpg"
+  },
+  {
+    "name": "Dr. Indira Patnaik",
+    "department": "Medicine",
+    "branch": "Saheed Nagar",
+    "qualification": "MD, Medicine",
+    "timings": "Mon-Sat: 10AM to 5PM",
+    "img": "https://sparshhospitals.com/wp-content/themes/hello-elementor/assets/images/SaheedNagar/13.jpg"
+  },
+  {
+    "name": "Dr. Sanjay Kumar Jangid",
+    "department": "Medicine",
+    "branch": "Saheed Nagar",
+    "qualification": "MD, Medicine",
+    "timings": "Mon-Sat: 10AM to 5PM",
+    "img": "https://sparshhospitals.com/wp-content/themes/hello-elementor/assets/images/SaheedNagar/11.jpg"
+  },
+  {
+    "name": "Dr. Sunil Madhab Panda",
+    "department": "Medicine",
+    "branch": "Saheed Nagar",
+    "qualification": "MD, Medicine",
+    "timings": "Mon-Sat: 10AM to 5PM",
+    "img": "https://sparshhospitals.com/wp-content/themes/hello-elementor/assets/images/SaheedNagar/12.jpg"
+  },
+  {
+    "name": "Dr. Anup Budhia",
+    "department": "Medicine",
+    "branch": "Saheed Nagar",
+    "qualification": "MD, Medicine",
+    "timings": "Mon-Sat: 10AM to 5PM",
+    "img": "https://sparshhospitals.com/wp-content/themes/hello-elementor/assets/images/SaheedNagar/14.jpg"
+  },
+  {
+    "name": "Dr. Utpal Kumar Nandi",
+    "department": "Pulmonology",
+    "branch": "Saheed Nagar",
+    "qualification": "MD (Medicine), DM (Chest & TB)",
+    "timings": "Mon-Sat: 10AM to 5PM",
+    "img": "https://sparshhospitals.com/wp-content/themes/hello-elementor/assets/images/SaheedNagar/16.jpg"
+  },
+  {
+    "name": "Dr. Pratap Kumar Pradhan",
+    "department": "Cardiology",
+    "branch": "Saheed Nagar",
+    "qualification": "MD (Medicine), DM (Cardiology)",
+    "timings": "Mon-Sat: 10AM to 5PM",
+    "img": "https://sparshhospitals.com/wp-content/themes/hello-elementor/assets/images/SaheedNagar/18.jpg"
+  },
+  {
+    "name": "Dr. Abhimanyu Madhual",
+    "department": "Orthopedics and Joint Replacement",
+    "branch": "Saheed Nagar",
+    "qualification": "MS (Orthopaedic)",
+    "timings": "Mon-Sat: 10AM to 5PM",
+    "img": "https://sparshhospitals.com/wp-content/themes/hello-elementor/assets/images/SaheedNagar/20.jpg"
+  },
+  {
+    "name": "Dr. Suryaprakhash S. Choudhary",
+    "department": "Neurology",
+    "branch": "Saheed Nagar",
+    "qualification": "MD, DM (Neurology)",
+    "timings": "Mon-Sat: 10AM to 5PM",
+    "img": "https://sparshhospitals.com/wp-content/themes/hello-elementor/assets/images/SaheedNagar/22.jpg"
+  },
+  {
+    "name": "Dr. Sanatan Satpathy",
+    "department": "Neuro-Spine Surgery",
+    "branch": "Saheed Nagar",
+    "qualification": "MS, MCh (Neuro Surgery)",
+    "timings": "Mon-Sat: 10AM to 5PM",
+    "img": "https://sparshhospitals.com/wp-content/themes/hello-elementor/assets/images/SaheedNagar/24.jpg"
+  },
+  {
+    "name": "Dr. Sarat Chandra Panigrahi",
+    "department": "Gastroenterology",
+    "branch": "Saheed Nagar",
+    "qualification": "MD (Medicine), DM (Gastro)",
+    "timings": "Mon-Sat: 10AM to 5PM",
+    "img": "https://sparshhospitals.com/wp-content/themes/hello-elementor/assets/images/SaheedNagar/26.jpg"
+  },
+  {
+    "name": "Dr. Gadadhar Panda",
+    "department": "Gastroenterology",
+    "branch": "Saheed Nagar",
+    "qualification": "MD, DrNB (Gastro)",
+    "timings": "Mon-Sat: 10AM to 5PM",
+    "img": "https://sparshhospitals.com/wp-content/themes/hello-elementor/assets/images/SaheedNagar/27.jpg"
+  },
+  {
+    "name": "Dr. Sukanta Kumar Padhi",
+    "department": "Urology",
+    "branch": "Saheed Nagar",
+    "qualification": "MS, DrNB (Urology)",
+    "timings": "Mon-Sat: 10AM to 5PM",
+    "img": "https://sparshhospitals.com/wp-content/themes/hello-elementor/assets/images/SaheedNagar/29.jpg"
+  },
+  {
+    "name": "Dr. Jagmohan Mishra",
+    "department": "Urology",
+    "branch": "Saheed Nagar",
+    "qualification": "MS, General Surgery, M.Ch, Urology",
+    "timings": "Mon-Sat: 10AM to 5PM",
+    "img": "https://sparshhospitals.com/wp-content/themes/hello-elementor/assets/images/SaheedNagar/30.jpg"
+  },
+  {
+    "name": "Dr. Debaprasad Kar",
+    "department": "Nephrology",
+    "branch": "Saheed Nagar",
+    "qualification": "MD, DM (Nephrology)",
+    "timings": "Mon-Sat: 10AM to 5PM",
+    "img": "https://sparshhospitals.com/wp-content/themes/hello-elementor/assets/images/SaheedNagar/32.jpg"
+  },
+  {
+    "name": "Dr. Sutapa Biswas",
+    "department": "Pathology",
+    "branch": "Saheed Nagar",
+    "qualification": "MD (Pathology)",
+    "timings": "Mon-Sat: 10AM to 5PM",
+    "img": "https://sparshhospitals.com/wp-content/themes/hello-elementor/assets/images/SaheedNagar/47.jpg"
+  },
+  {
+    "name": "Dr. Sanjay Kumar Nayak",
+    "department": "Pathology",
+    "branch": "Saheed Nagar",
+    "qualification": "MD (Pathology)",
+    "timings": "Mon-Sat: 10AM to 5PM",
+    "img": "https://sparshhospitals.com/wp-content/themes/hello-elementor/assets/images/SaheedNagar/48.jpg"
+  },
+  {
+    "name": "Dr. (Col.) Ajit Kumar Das",
+    "department": "Pathology",
+    "branch": "Saheed Nagar",
+    "qualification": "MD (Pathology)",
+    "timings": "Mon-Sat: 10AM to 5PM",
+    "img": "https://sparshhospitals.com/wp-content/themes/hello-elementor/assets/images/SaheedNagar/49.jpg"
+  },
+  {
+    "name": "Dr. Subrat Kumar Tripathy",
+    "department": "Pathology",
+    "branch": "Saheed Nagar",
+    "qualification": "MD (Biochemistry)",
+    "timings": "Mon-Sat: 10AM to 5PM",
+    "img": "https://sparshhospitals.com/wp-content/themes/hello-elementor/assets/images/SaheedNagar/50.jpg"
+  },
+  {
+    "name": "Dr. Vikash Agarwal",
+    "department": "Radio-Diagnostics",
+    "branch": "Saheed Nagar",
+    "qualification": "MD (Radiology)",
+    "timings": "Mon-Sat: 10AM to 5PM",
+    "img": "https://sparshhospitals.com/wp-content/themes/hello-elementor/assets/images/SaheedNagar/43.jpg"
+  },
+  {
+    "name": "Dr. Smrutirekha Nayak",
+    "department": "Radio-Diagnostics",
+    "branch": "Saheed Nagar",
+    "qualification": "MD (Radiology)",
+    "timings": "Mon-Sat: 10AM to 5PM",
+    "img": "https://sparshhospitals.com/wp-content/themes/hello-elementor/assets/images/SaheedNagar/45.jpg"
+  },
+  {
+    "name": "Dr. Mrinal Kanti Dash",
+    "department": "OB and Gynecology",
+    "branch": "Saheed Nagar",
+    "qualification": "MD (Ob. & Gyn.), Advanced Laparoscopic Surgeon",
+    "timings": "Mon-Sat: 10AM to 5PM",
+    "img": "https://sparshhospitals.com/wp-content/themes/hello-elementor/assets/images/SaheedNagar/37.jpg"
+  },
+  {
+    "name": "Dr. Swati Sucharita Sahoo",
+    "department": "OB and Gynecology",
+    "branch": "Saheed Nagar",
+    "qualification": "MS (Obs. & Gyn.), Advanced Laparoscopic Surgeon",
+    "timings": "Mon-Sat: 10AM to 5PM",
+    "img": "https://sparshhospitals.com/wp-content/themes/hello-elementor/assets/images/SaheedNagar/38.jpg"
+  },
+  {
+    "name": "Dr. Saurajit Patnaik",
+    "department": "GI Surgery",
+    "branch": "Saheed Nagar",
+    "qualification": "MS (Surgery), FRCS",
+    "timings": "Mon-Sat: 10AM to 5PM",
+    "img": "https://sparshhospitals.com/wp-content/themes/hello-elementor/assets/images/SaheedNagar/34.jpg"
+  },
+  {
+    "name": "Dr. Madhuri Patnaik",
+    "department": "GI Surgery",
+    "branch": "Saheed Nagar",
+    "qualification": "DNB, FMAS, FIAGES, MCLS, Advanced Laproscopic Surgeon",
+    "timings": "Mon-Sat: 10AM to 5PM",
+    "img": "https://sparshhospitals.com/wp-content/themes/hello-elementor/assets/images/SaheedNagar/35.jpg"
+  },
+  {
+    "name": "Dr. Jayaprakash Pradhan",
+    "department": "Physiotherapy",
+    "branch": "Saheed Nagar",
+    "qualification": "Physiotherapist",
+    "timings": "Mon-Sat: 10AM to 5PM",
+    "img": "https://sparshhospitals.com/wp-content/themes/hello-elementor/assets/images/SaheedNagar/52.jpg"
+  },
+  {
+    "name": "Dr. Priyanka Saini",
+    "department": "Dental Surgery",
+    "branch": "Saheed Nagar",
+    "qualification": "BDS",
+    "timings": "Mon-Sat: 10AM to 5PM",
+    "img": "https://sparshhospitals.com/wp-content/themes/hello-elementor/assets/images/SaheedNagar/54.jpg"
+  },
+  {
+    "name": "Mrs. Praksmita Rout",
+    "department": "Diet and Nutrition",
+    "branch": "Saheed Nagar",
+    "qualification": "M.Sc., PG Dip. Diet, DNHE, PG Dip. Adv. Vedic Nutrition",
+    "timings": "Mon-Sat: 10AM to 5PM",
+    "img": "https://sparshhospitals.com/wp-content/themes/hello-elementor/assets/images/SaheedNagar/56.jpg"
+  },
+  {
+    "name": "Dr. Manisha Mohanty",
+    "department": "Neurology",
+    "branch": "Saheed Nagar",
+    "qualification": "DM (Neurology)",
+    "timings": "Mon-Sat: 10AM to 5PM",
+    "img": "https://sparshhospitals.com/wp-content/themes/hello-elementor/assets/images/SaheedNagar/61.jpg"
+  },
+  {
+    "name": "Dr. Hapi Patra",
+    "department": "Medicine",
+    "branch": "Saheed Nagar",
+    "qualification": "DN (Nephrology)",
+    "timings": "Mon-Sat: 10AM to 5PM",
+    "img": "https://sparshhospitals.com/wp-content/themes/hello-elementor/assets/images/SaheedNagar/63.jpg"
+  },
+  {
+    "name": "Dr. Sagarika Kamma",
+    "department": "Radio-Diagnostics",
+    "branch": "Saheed Nagar",
+    "qualification": "MD (Radiology)",
+    "timings": "Mon-Sat: 10AM to 5PM",
+    "img": "https://sparshhospitals.com/wp-content/themes/hello-elementor/assets/images/SaheedNagar/62.jpg"
+  },
+  {
+    "name": "Dr. Sai Pragyan Das",
+    "department": "Paediatrics",
+    "branch": "Saheed Nagar",
+    "qualification": "MD (Paediatrics)",
+    "timings": "Mon-Sat: 10AM to 5PM",
+    "img": "https://sparshhospitals.com/wp-content/themes/hello-elementor/assets/images/SaheedNagar/64.jpg"
+  },
+  {
+    "name": "Dr. Gurudatta Maharana",
+    "department": "Cardiology",
+    "branch": "Saheed Nagar",
+    "qualification": "DNB, MBBS, DrNB, Interventional Cardiology",
+    "timings": "Mon-Sat: 10AM to 5PM",
+    "img": "https://sparshhospitals.com/wp-content/themes/hello-elementor/assets/images/SaheedNagar/65.jpg"
+  },
+  {
+    "name": "Prof. Dr. Ghanashyam Biswas",
+    "department": "General",
+    "branch": "Kantabada",
+    "qualification": "MD, DM (Medical Oncology)",
+    "timings": "Mon-Sat: 10AM to 5PM",
+    "img": "https://sparshhospitals.com/wp-content/themes/hello-elementor/assets/images/Kantabada/page_1.png"
+  },
+  {
+    "name": "Dr. Abhisekh Sahoo",
+    "department": "Orthopedics",
+    "branch": "Kantabada",
+    "qualification": "MS, Orthopaedic",
+    "timings": "Mon-Sat: 10AM to 5PM",
+    "img": "https://sparshhospitals.com/wp-content/themes/hello-elementor/assets/images/Kantabada/page_2.png"
+  },
+  {
+    "name": "Dr. Suryaprakash S. Choudhury",
+    "department": "Neurology",
+    "branch": "Kantabada",
+    "qualification": "MD, DM (Neurology)",
+    "timings": "Mon-Sat: 10AM to 5PM",
+    "img": "https://sparshhospitals.com/wp-content/themes/hello-elementor/assets/images/Kantabada/page_3.png"
+  },
+  {
+    "name": "Dr. Ipsit Illahi Das",
+    "department": "Surgery",
+    "branch": "Kantabada",
+    "qualification": "MS (General Surgery) SCB Medical College",
+    "timings": "Mon-Sat: 10AM to 5PM",
+    "img": "https://sparshhospitals.com/wp-content/themes/hello-elementor/assets/images/Kantabada/page_4.png"
+  },
+  {
+    "name": "Dr. Kiran Kumar Sabat",
+    "department": "Pulmonology",
+    "branch": "Kantabada",
+    "qualification": "MD (Pulmonary Medicine)",
+    "timings": "Mon-Sat: 10AM to 5PM",
+    "img": "https://sparshhospitals.com/wp-content/themes/hello-elementor/assets/images/Kantabada/page_5.png"
+  },
+  {
+    "name": "Dr. Sandeep Kumar Ratha",
+    "department": "Medicine",
+    "branch": "Kantabada",
+    "qualification": "MD (Medicine)",
+    "timings": "Mon-Sat: 10AM to 5PM",
+    "img": "https://sparshhospitals.com/wp-content/themes/hello-elementor/assets/images/Kantabada/page_6.png"
+  },
+  {
+    "name": "Dr. Swati Sucharita Sahoo",
+    "department": "OB and Gynecology",
+    "branch": "Kantabada",
+    "qualification": "MS (Obs. & Gyn.)",
+    "timings": "Mon-Sat: 10AM to 5PM",
+    "img": "https://sparshhospitals.com/wp-content/themes/hello-elementor/assets/images/Kantabada/page_7.png"
+  },
+  {
+    "name": "Dr. Sharmistha Mohanty",
+    "department": "Dental",
+    "branch": "Kantabada",
+    "qualification": "MDS",
+    "timings": "Mon-Sat: 10AM to 5PM",
+    "img": "https://sparshhospitals.com/wp-content/themes/hello-elementor/assets/images/Kantabada/page_9.png"
+  },
+  {
+    "name": "Dr. Lalat Baruna Patra",
+    "department": "Nephrology",
+    "branch": "Kantabada",
+    "qualification": "MD (Paediatric), DM (Nephrology)",
+    "timings": "Mon-Sat: 10AM to 5PM",
+    "img": "https://sparshhospitals.com/wp-content/themes/hello-elementor/assets/images/Kantabada/page_11.png"
+  },
+  {
+    "name": "Dr. Jagmohan Mishra",
+    "department": "Urology",
+    "branch": "Kantabada",
+    "qualification": "MS, General Surgery, M.Ch. Urology",
+    "timings": "Mon-Sat: 10AM to 5PM",
+    "img": "https://sparshhospitals.com/wp-content/themes/hello-elementor/assets/images/Kantabada/page_12.png"
+  },
+  {
+    "name": "Dr. Swopna Sagar Das",
+    "department": "Surgery",
+    "branch": "Kantabada",
+    "qualification": "DrNB (General Surgery)",
+    "timings": "Mon-Sat: 10AM to 5PM",
+    "img": "https://sparshhospitals.com/wp-content/themes/hello-elementor/assets/images/Kantabada/page_13.png"
+  },
+  {
+    "name": "Dr. Roshan Sahoo",
+    "department": "Neuro Surgery",
+    "branch": "Kantabada",
+    "qualification": "MS, MCh (Neuro Surgery)",
+    "timings": "Mon-Sat: 10AM to 5PM",
+    "img": "https://sparshhospitals.com/wp-content/themes/hello-elementor/assets/images/Kantabada/page_14.png"
+  },
+  {
+    "name": "Dr. Sanatan Satpathy",
+    "department": "Neuro Surgery",
+    "branch": "Kantabada",
+    "qualification": "MS, MCh (Neuro Surgery)",
+    "timings": "Mon-Sat: 10AM to 5PM",
+    "img": "https://sparshhospitals.com/wp-content/themes/hello-elementor/assets/images/Kantabada/page_15.png"
+  },
+  {
+    "name": "Dr. Amiya Jenamani",
+    "department": "Surgery",
+    "branch": "Kantabada",
+    "qualification": "MS (Surgery)",
+    "timings": "Mon-Sat: 10AM to 5PM",
+    "img": "https://sparshhospitals.com/wp-content/themes/hello-elementor/assets/images/Kantabada/page_16.png"
+  },
+  {
+    "name": "Dr. Arupam Mohapatra",
+    "department": "Gastroenterology",
+    "branch": "Kantabada",
+    "qualification": "MD, DM (Hepatology)",
+    "timings": "Mon-Sat: 10AM to 5PM",
+    "img": "https://sparshhospitals.com/wp-content/themes/hello-elementor/assets/images/Kantabada/page_17.png"
+  },
+  {
+    "name": "Barsha Rani Moharana",
+    "department": "Diet and Nutrition",
+    "branch": "Kantabada",
+    "qualification": "Dietician",
+    "timings": "Mon-Sat: 10AM to 5PM",
+    "img": "https://sparshhospitals.com/wp-content/themes/hello-elementor/assets/images/Kantabada/page_18.png"
+  },
+  {
+    "name": "Dr. Smitirupa Mishra",
+    "department": "Pathology",
+    "branch": "Kantabada",
+    "qualification": "MBBS, DrNB Pathology",
+    "timings": "Mon-Sat: 10AM to 5PM",
+    "img": "https://sparshhospitals.com/wp-content/themes/hello-elementor/assets/images/Kantabada/page_19.png"
+  },
+  {
+    "name": "Dr. Chefriesh R B",
+    "department": "Medicine",
+    "branch": "Kantabada",
+    "qualification": "MD (Medicine)",
+    "timings": "Mon-Sat: 10AM to 5PM",
+    "img": "https://sparshhospitals.com/wp-content/themes/hello-elementor/assets/images/Kantabada/page_20.png"
+  },
+  {
+    "name": "Dr. Manisha Mohanty",
+    "department": "Neurology",
+    "branch": "Kantabada",
+    "qualification": "DM (Neurology)",
+    "timings": "Mon-Sat: 10AM to 5PM",
+    "img": "https://sparshhospitals.com/wp-content/themes/hello-elementor/assets/images/Kantabada/page_22.png"
+  },
+  {
+    "name": "Dr. Gurudatta Maharana",
+    "department": "Cardiology",
+    "branch": "Kantabada",
+    "qualification": "DNB, MBBS, DrNB, Interventional Cardiology",
+    "timings": "Mon-Sat: 10AM to 5PM",
+    "img": "https://sparshhospitals.com/wp-content/themes/hello-elementor/assets/images/Kantabada/page_23.png"
+  }
+]

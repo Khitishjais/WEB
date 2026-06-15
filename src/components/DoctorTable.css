@@ -1,0 +1,256 @@
+/* ═══════════════════════════════════════════════════════
+   DOCTOR LIST / GRID — Premium Bright Healthcare Theme
+   ═══════════════════════════════════════════════════════ */
+.doctor-list-container {
+  padding-bottom: 80px;
+}
+
+/* Increased bottom margin to provide healthy spacing between filters and cards */
+.roster-header {
+  margin-bottom: 50px;
+}
+
+.search-filter-row {
+  display: flex;
+  gap: 20px;
+  max-width: 1000px;
+  margin: 0 auto;
+  background: var(--color-bg-pure);
+  padding: 16px;
+  border-radius: 20px;
+  box-shadow: var(--shadow-sm);
+  border: 1px solid var(--color-border);
+}
+
+.search-wrap {
+  flex: 2;
+  position: relative;
+}
+
+.roster-search, .roster-dept-filter, .roster-exp-filter {
+  border: 1px solid var(--color-border);
+  border-radius: 12px;
+  font-size: 0.95rem;
+  height: 50px;
+  outline: none;
+  transition: var(--transition);
+  color: var(--color-text);
+  font-weight: 500;
+}
+
+.roster-search {
+  width: 100%;
+  padding: 12px 20px 12px 45px;
+  background: var(--color-bg);
+}
+
+.roster-dept-filter, .roster-exp-filter {
+  flex: 1;
+  padding: 0 16px;
+  font-weight: 700;
+  color: var(--color-text-title);
+  background-color: var(--color-bg);
+  cursor: pointer;
+}
+
+.roster-search:focus, .roster-dept-filter:focus, .roster-exp-filter:focus {
+  border-color: var(--color-primary);
+  background-color: var(--color-bg-pure);
+  box-shadow: 0 0 0 3px rgba(16, 185, 129, 0.1);
+}
+
+.search-icon {
+  position: absolute;
+  left: 18px;
+  top: 50%;
+  transform: translateY(-50%);
+  opacity: 0.5;
+  font-size: 1.1rem;
+}
+
+.doctor-luxury-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 24px;
+}
+
+.doc-lux-card {
+  padding: 0;
+  overflow: hidden;
+  background: var(--color-bg-pure);
+  border: 1px solid var(--color-border);
+  border-radius: 24px;
+  box-shadow: var(--shadow-lux);
+  display: flex;
+  flex-direction: column;
+  transition: var(--transition);
+}
+
+.doc-lux-card:hover {
+  border-color: rgba(16, 185, 129, 0.25);
+  transform: translateY(-8px);
+  box-shadow: 0 20px 40px rgba(16, 185, 129, 0.08);
+}
+
+.doc-img-wrap {
+  width: 100%;
+  height: 300px;
+  position: relative;
+  overflow: hidden;
+  background: var(--color-bg);
+}
+
+.doc-img-wrap img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.6s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.doc-lux-card:hover .doc-img-wrap img {
+  transform: scale(1.05);
+}
+
+.branch-tag {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  background: var(--gradient-primary);
+  color: white;
+  padding: 6px 14px;
+  border-radius: 8px;
+  font-size: 0.7rem;
+  font-weight: 850;
+  z-index: 5;
+  box-shadow: var(--shadow-glow);
+}
+
+.doc-lux-body {
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+.doc-dept-tag {
+  color: var(--color-primary);
+  font-weight: 850;
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  display: block;
+  margin-bottom: 10px;
+}
+
+/* Beautiful high-contrast Forest Green color for Doctor names */
+.doc-lux-body h3 {
+  font-size: 1.4rem;
+  font-weight: 900;
+  color: var(--color-text-title) !important;
+  margin: 0 0 6px 0;
+  font-family: var(--font-primary);
+  line-height: 1.35;
+}
+
+/* High-contrast Slate Gray for medical qualifications */
+.doc-lux-qual {
+  font-size: 0.88rem;
+  color: var(--color-text-muted) !important;
+  margin-bottom: 15px;
+  line-height: 1.5;
+  height: 40px;
+  overflow: hidden;
+  font-weight: 500;
+}
+
+/* Premium clinician experience badge */
+.doc-lux-experience {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 12px;
+  background: rgba(16, 185, 129, 0.06);
+  border: 1px solid rgba(16, 185, 129, 0.15);
+  border-radius: 8px;
+  align-self: flex-start;
+  margin-bottom: 20px;
+}
+
+.exp-icon {
+  font-size: 0.95rem;
+}
+
+.exp-text {
+  font-size: 0.8rem;
+  font-weight: 850;
+  color: var(--color-primary-dark);
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+}
+
+.doc-lux-meta {
+  border-top: 1px solid var(--color-border);
+  padding-top: 20px;
+  margin-bottom: 20px;
+  margin-top: auto; /* Aligns the timeline neatly to the bottom of the body details */
+}
+
+.meta-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 0.88rem;
+  color: var(--color-text-muted);
+  font-weight: 600;
+}
+
+.m-icon {
+  font-size: 1.05rem;
+}
+
+/* Medical Green Button */
+.btn-book-green {
+  background: var(--gradient-primary);
+  color: white !important;
+  padding: 14px 20px;
+  border-radius: 12px;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  font-size: 0.85rem;
+  border: none;
+  cursor: pointer;
+  transition: var(--transition);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: var(--shadow-glow);
+  text-decoration: none;
+}
+
+.btn-book-green:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 20px rgba(16, 185, 129, 0.2);
+}
+
+@media (max-width: 800px) {
+  .search-filter-row {
+    flex-direction: column;
+    gap: 12px;
+  }
+  .roster-dept-filter, .roster-exp-filter {
+    width: 100%;
+  }
+}
+
+@media (max-width: 1200px) {
+  .doctor-luxury-grid { grid-template-columns: repeat(3, 1fr); }
+}
+
+@media (max-width: 900px) {
+  .doctor-luxury-grid { grid-template-columns: repeat(2, 1fr); }
+}
+
+@media (max-width: 560px) {
+  .doctor-luxury-grid { grid-template-columns: 1fr; }
+}

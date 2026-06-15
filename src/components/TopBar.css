@@ -1,0 +1,78 @@
+.top-bar-lux {
+  background: #020617;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+  padding: 8px 0;
+  font-family: 'Inter', sans-serif;
+  position: relative;
+  z-index: 10001;
+}
+
+.top-bar-flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.top-bar-left, .top-bar-right {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+}
+
+.top-bar-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  color: #94a3b8;
+  font-size: 0.8rem;
+  font-weight: 500;
+}
+
+.top-bar-item a {
+  color: #00d1ff;
+  text-decoration: none;
+}
+
+.top-icon {
+  color: #00d1ff;
+}
+
+.social-links-top {
+  display: flex;
+  gap: 16px;
+  color: #64748b;
+}
+
+.social-links-top a {
+  color: inherit;
+  transition: color 0.3s ease;
+}
+
+.social-links-top a:hover {
+  color: #00d1ff;
+}
+
+.quick-book-link {
+  background: rgba(0, 209, 255, 0.1);
+  color: #00d1ff;
+  padding: 4px 12px;
+  border-radius: 4px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-decoration: none;
+  border: 1px solid rgba(0, 209, 255, 0.2);
+  transition: all 0.3s ease;
+}
+
+.quick-book-link:hover {
+  background: #00d1ff;
+  color: #020617;
+}
+
+@media (max-width: 768px) {
+  .hide-mobile {
+    display: none;
+  }
+}

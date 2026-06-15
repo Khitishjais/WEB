@@ -1,0 +1,9 @@
+.departments-page {
+  padding: 140px 0 100px;
+}
+
+.departments-luxury-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+  gap: 32px;
+}

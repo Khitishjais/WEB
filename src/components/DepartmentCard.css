@@ -1,0 +1,128 @@
+.dept-lux-card-link {
+  text-decoration: none;
+  display: flex;
+  height: 100%;
+}
+
+.dept-lux-card {
+  padding: 32px 24px;
+  text-align: center;
+  background: var(--color-bg-pure);
+  border-radius: 20px;
+  transition: var(--transition);
+  cursor: pointer;
+  border: 1px solid var(--color-border);
+  box-shadow: var(--shadow-lux);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex: 1;
+  height: 100%;
+}
+
+.dept-lux-card:hover {
+  transform: translateY(-8px);
+  border-color: rgba(16, 185, 129, 0.25);
+  box-shadow: 0 15px 30px rgba(16, 185, 129, 0.08);
+}
+
+.dept-lux-icon-wrap {
+  width: 100px;
+  height: 100px;
+  background: rgba(16, 185, 129, 0.08);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+  transition: var(--transition);
+}
+
+.dept-lux-card:hover .dept-lux-icon-wrap {
+  background: rgba(16, 185, 129, 0.15);
+}
+
+.dept-lux-emoji-image {
+  width: 76px;
+  height: 76px;
+  object-fit: contain;
+  transition: transform 0.3s ease;
+  filter: drop-shadow(0 2px 4px rgba(16, 185, 129, 0.15));
+}
+
+.dept-lux-card:hover .dept-lux-emoji-image {
+  transform: scale(1.15) rotate(5deg);
+}
+
+.dept-lux-icon {
+  font-size: 2rem;
+}
+
+.dept-lux-title {
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin-bottom: 12px;
+  color: var(--color-text-title);
+  font-family: var(--font-primary);
+}
+
+.dept-lux-desc {
+  font-size: 0.875rem;
+  color: var(--color-text-muted);
+  line-height: 1.6;
+  margin-bottom: 24px;
+  flex-grow: 1;
+}
+
+.dept-lux-action {
+  font-weight: 700;
+  color: var(--color-primary);
+  font-size: 0.875rem;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  transition: var(--transition);
+}
+
+.dept-lux-card:hover .dept-lux-action {
+  color: var(--color-primary-dark);
+}
+
+.dept-lux-arrow {
+  transition: transform 0.3s ease;
+}
+
+.dept-lux-card:hover .dept-lux-arrow {
+  transform: translateX(4px);
+}
+
+.dept-lux-actions-flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  margin-top: 16px;
+  border-top: 1px solid var(--color-border);
+  padding-top: 16px;
+}
+
+.dept-lux-action {
+  text-decoration: none;
+}
+
+.dept-lux-btn-book {
+  background: var(--gradient-primary);
+  color: white;
+  padding: 8px 16px;
+  border-radius: 8px;
+  font-size: 0.85rem;
+  font-weight: 700;
+  text-decoration: none;
+  transition: var(--transition);
+  box-shadow: var(--shadow-glow);
+}
+
+.dept-lux-btn-book:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(16, 185, 129, 0.4);
+}

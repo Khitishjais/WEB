@@ -1,0 +1,77 @@
+.opd-slip-container-hidden {
+  position: absolute;
+  top: -9999px;
+  left: -9999px;
+  width: 600px;
+  background: white;
+  font-family: 'Inter', sans-serif;
+  color: #333;
+  z-index: -9999;
+}
+
+.appt-card-wrapper {
+  border: 1px solid #ddd;
+  background: white;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.appt-card-header {
+  background: #1e5fa0; /* Blue header from image */
+  color: white;
+  padding: 25px 20px;
+  font-size: 1.1rem;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+}
+
+.appt-card-body {
+  padding: 40px 60px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.appt-card-row {
+  display: flex;
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+
+.appt-card-row .label {
+  width: 120px;
+  font-weight: 500;
+  color: #444;
+}
+
+.appt-card-row .value {
+  flex: 1;
+  font-weight: 600;
+  color: #000;
+}
+
+.appt-card-barcode {
+  margin-top: 40px;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.appt-card-footer {
+  background: #f9f9f9;
+  padding: 15px;
+  text-align: center;
+  font-size: 0.9rem;
+  color: #777;
+  border-top: 1px solid #eee;
+}
+
+/* Print Specifics */
+@media print {
+  .opd-slip-container-hidden {
+    position: static;
+    visibility: visible;
+  }
+}
