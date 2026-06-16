@@ -26,7 +26,7 @@
 
 .branches-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(380px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   gap: 25px;
   max-width: 1000px;
   margin: 0 auto;
@@ -160,7 +160,17 @@
 }
 
 @media (max-width: 768px) {
-  .branches-grid { grid-template-columns: 1fr; }
-  .branch-lux-card { padding: 25px; }
-  .branch-info-lux h3 { font-size: 1.3rem; }
+  .branches-grid { 
+    grid-template-columns: 1fr;
+    padding: 0 5px;
+  }
+  .branch-lux-card { min-height: 260px; }
+}
+
+@media (max-width: 480px) {
+  .branches { padding: 40px 0; }
+  .branch-lux-card { min-height: 240px; }
+  .branch-content-lux { padding: 18px; }
+  .branch-content-lux h3 { font-size: 1.1rem; }
+  .btn-map-lux { padding: 0.65rem 1.2rem; font-size: 0.85rem; }
 }

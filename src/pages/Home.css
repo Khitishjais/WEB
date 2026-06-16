@@ -539,3 +539,94 @@
   .facilities-asym-grid { grid-template-rows: auto; display: flex; flex-direction: column; }
   .fac-box { height: 350px; }
 }
+
+/* ===== TABLET (768px) ===== */
+@media (max-width: 768px) {
+  /* About Section */
+  .about-grid-lux { gap: 30px; }
+  .img-stack { height: 320px; }
+  .about-cards-lux { grid-template-columns: 1fr; gap: 15px; }
+  .about-card-lux { padding: 20px; }
+  .about-desc { font-size: 1rem; margin-bottom: 2rem; }
+
+  /* Specialized Care */
+  .spec-card-lux.main,
+  .spec-card-lux.side1,
+  .spec-card-lux.side2 { height: 360px; }
+  .spec-highlights-lux { 
+    flex-direction: column; 
+    gap: 20px; 
+    padding: 20px; 
+  }
+  .spec-stats-lux {
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 25px 20px;
+    margin-top: 40px;
+  }
+  .ss-text strong { font-size: 1.4rem; }
+
+  /* Values Section */
+  .values-visual-lux { height: 320px; }
+  .value-item-lux { padding: 20px; gap: 15px; }
+  .v-icon { width: 55px; height: 55px; font-size: 2rem; }
+
+  /* Facilities */
+  .fac-box { height: 280px; }
+
+  /* Testimonials */
+  .test-card-lux { padding: 30px; }
+  .test-card-lux p { font-size: 1rem; margin-bottom: 25px; }
+
+  /* Stats */
+  .ss-item { gap: 12px; }
+}
+
+/* ===== MOBILE (480px) ===== */
+@media (max-width: 480px) {
+  /* About Section */
+  .img-stack { height: 240px; }
+  .stack-2 { display: none; }
+  .about-highlights-lux { gap: 10px; }
+  .highlight-item { font-size: 0.8rem; padding: 6px 14px; }
+  .about-desc { font-size: 0.95rem; }
+
+  /* Specialized Cards */
+  .spec-card-lux.main,
+  .spec-card-lux.side1,
+  .spec-card-lux.side2 { height: 280px; }
+  .spec-overlay { padding: 20px; }
+  .side1 .spec-overlay, .side2 .spec-overlay { padding: 15px; }
+
+  /* Stats */
+  .spec-stats-lux { 
+    grid-template-columns: 1fr 1fr; 
+    display: grid; 
+    gap: 15px; 
+    padding: 20px;
+  }
+  .ss-text strong { font-size: 1.2rem; }
+  .ss-text span { font-size: 0.75rem; }
+
+  /* Values */
+  .values-visual-lux { height: 260px; }
+  .value-item-lux { flex-direction: column; gap: 10px; padding: 18px; }
+
+  /* Facilities */
+  .fac-box { height: 220px; }
+  .fac-label-lux { bottom: 15px; left: 15px; font-size: 0.85rem; padding: 8px 18px; }
+
+  /* Testimonials */
+  .test-card-lux { padding: 24px; }
+  .t-avatar { width: 48px; height: 48px; font-size: 1.2rem; }
+  .t-info strong { font-size: 0.95rem; }
+
+  /* Highlights bar */
+  .spec-highlights-lux {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 15px;
+    padding: 15px;
+    margin-top: 25px;
+  }
+}

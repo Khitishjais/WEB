@@ -73,6 +73,33 @@ h1, h2, h3, h4, h5, h6 {
   .container-fluid { padding: 0 2rem; }
 }
 
+@media (max-width: 768px) {
+  .container-fluid { padding: 0 1.2rem; }
+  .section-padding { padding: 60px 0; }
+  .section-title-lux { font-size: clamp(1.8rem, 6vw, 2.4rem); margin-bottom: 1.5rem; }
+
+  .whatsapp-float {
+    bottom: 20px;
+    right: 16px;
+    width: 50px;
+    height: 50px;
+  }
+  .whatsapp-float img { width: 28px; height: 28px; }
+}
+
+@media (max-width: 480px) {
+  .container-fluid { padding: 0 1rem; }
+  .section-padding { padding: 48px 0; }
+  .section-title-lux { font-size: 1.7rem; }
+
+  .btn-lux, .btn-outline-lux {
+    padding: 0.9rem 1.8rem;
+    font-size: 0.9rem;
+    width: 100%;
+    text-align: center;
+  }
+}
+
 /* Premium Frosted Glass Cards with Soft Green Glow Borders */
 .glass {
   background: var(--color-bg-card);

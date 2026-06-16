@@ -1,6 +1,6 @@
 .navbar-lux {
   position: fixed;
-  top: 0;
+  top: 34px; /* Space for TopBar */
   left: 0;
   width: 100%;
   z-index: 1000;
@@ -8,6 +8,7 @@
 }
 
 .nav-top-strip {
+  display: none; /* TopBar component is now used instead */
   background: rgba(240, 253, 244, 0.85); /* Very soft healing green background */
   backdrop-filter: blur(12px);
   -webkit-backdrop-filter: blur(12px);
@@ -61,6 +62,10 @@
   -webkit-backdrop-filter: blur(20px);
   border-bottom: 1px solid rgba(16, 185, 129, 0.08);
   transition: var(--transition);
+}
+
+.navbar-lux.scrolled {
+  top: 0;
 }
 
 .navbar-lux.scrolled .nav-top-strip {

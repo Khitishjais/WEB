@@ -96,7 +96,15 @@
 }
 
 @media (max-width: 768px) {
+  .spec-grid-lux { grid-template-columns: repeat(2, 1fr); gap: 20px; margin-top: 35px; }
+  .spec-overlay-lux { padding: 25px; }
+  .spec-item-lux h3 { font-size: 1.3rem; }
+}
+
+@media (max-width: 480px) {
   .spec-grid-lux { grid-template-columns: 1fr; }
+  .spec-overlay-lux { padding: 20px; }
+  .spec-icon-box { width: 46px; height: 46px; font-size: 1.4rem; margin-bottom: 15px; }
 }
 
 /* Infographic Style adjustments */

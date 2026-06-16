@@ -161,6 +161,15 @@
   .footer-tagline { margin-left: auto; margin-right: auto; }
 }
 
+@media (max-width: 480px) {
+  .site-footer { padding: 60px 0 0; }
+  .footer-top-grid { gap: 35px; }
+  .social-pill-group { flex-wrap: wrap; justify-content: center; gap: 8px; }
+  .social-pill { padding: 6px 12px; font-size: 0.7rem; }
+  .emergency-box p { font-size: 1.1rem; }
+  .footer-bottom-premium { font-size: 0.78rem; }
+}
+
 /* High specificity overrides to safeguard footer rendering against global CSS leaks */
 .site-footer a.social-pill {
   color: var(--color-primary-dark) !important;
